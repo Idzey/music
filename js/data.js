@@ -14,7 +14,7 @@ let albums = [
         ]
     },
     {
-        title: 'Собраться с мыслями',
+        title: 'Бодрая уборка',
         img: 'assets/img-2.jpg',
         description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
         year: '2018',
@@ -28,7 +28,7 @@ let albums = [
         ]
     },
     {
-        title: 'Собраться с мыслями',
+        title: 'Пока красишься',
         img: 'assets/img-1.jpg',
         description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
         year: '2018',
@@ -50,7 +50,7 @@ let albums = [
         ]
     },
     {
-        title: 'Собраться с мыслями',
+        title: 'Пока красишься',
         img: 'assets/img-2.jpg',
         description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
         year: '2018',
