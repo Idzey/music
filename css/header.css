@@ -1,0 +1,36 @@
+.container-fluid {
+    background-color: #f6f5f3;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+input[type="search"] {
+    border: none;
+    border-bottom: solid 1px #938e8e;
+}
+header .nav-link {
+    color: gray;
+}
+.active, header .nav-link:hover, header .nav-link:focus {
+    color: red;
+}
+header .nav {
+    gap: 10px;
+}
+.badge {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 21%, rgba(121,112,9,1) 46%, rgba(0,212,255,1) 100%);
+}
+.progress {
+    width: 100%;
+}
+main {
+    flex: 1 0 auto;
+}
+footer {
+    flex: 0 0 auto;
+}
+.list-group-item {
+    display: flex;
+    align-items: center;
+}

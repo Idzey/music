@@ -1,0 +1,12 @@
+.list-group-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.list-group-item:hover {
+    outline: 2px yellow solid;
+    cursor: pointer;
+}
+.cards a {
+    color: gray;
+}
